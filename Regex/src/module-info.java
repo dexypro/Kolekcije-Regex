@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bajov
+ *
+ */
+module Regex {
+}
